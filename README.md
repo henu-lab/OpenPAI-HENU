@@ -4,7 +4,7 @@
 
 ⚠️ 公用数据存储需要你在openpai文件夹中创建一个与你用户名相同的文件夹，之后，参考官方文档，这个文件夹的文件将自动挂载到容器中。
 
-| 相关资源： | [官方文档](https://openpai.readthedocs.io/zh_CN/latest/manual/cluster-user/index.html) | [交流讨论区](https://github.com/yurhett/OpenPAI-HENU/issues) | [数据区挂载教程](https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV) | 🔥🔥🔥[多卡训练教程（很简单）](https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html) |
+| 相关资源： | [官方文档](https://openpai.readthedocs.io/zh_CN/latest/manual/cluster-user/index.html) | [交流讨论区](https://github.com/yurhett/OpenPAI-HENU/issues) | [数据区挂载教程（暂未使用）](https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV) | 🔥🔥🔥[多卡训练教程（很简单）](https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html) |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ### Q&A:
