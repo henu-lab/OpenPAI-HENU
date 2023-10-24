@@ -4,6 +4,9 @@
 
 ⚠️ 公用数据存储需要你在openpai文件夹中创建一个与你用户名相同的文件夹，之后，参考官方文档，这个文件夹的文件将自动挂载到容器中。
 
+⚠️ Pytorch御用镜像：yulonger/pytorch:1.13.1-py3.9.12-cuda11.7.1-ubuntu20.04-pai-sm35（最合适的版本，所有Virtual Cluster都兼容）
+
+
 | 相关资源： | [官方文档](https://openpai.readthedocs.io/zh_CN/latest/manual/cluster-user/index.html) | [交流讨论区](https://github.com/yurhett/OpenPAI-HENU/issues) | [数据区挂载教程（暂未使用）](https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV) | 🔥🔥🔥[多卡训练教程（很简单）](https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html) |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
@@ -27,7 +30,7 @@ A：在资源能够满足的情况下，目前限制每人最高调用3个SKU，
 
 Q：对软件的支持情况？
 
-A：需要特别说明的以下两配置：
+A：需要特别说明的以下两配置（注意你所使用的镜像是否兼容）：
 
 |          | K80  | K40  |
 | -------- | ---- | ---- |
