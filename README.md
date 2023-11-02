@@ -19,7 +19,7 @@ A：
 <img width="705" alt="image" src="https://github.com/yurhett/OpenPAI-HENU/assets/46419702/16b599bc-63fa-46e0-9b5f-8875423f248c">
 2. 登陆OpenPAI新建Job，选你合适的环境，用Pytorch的按照我的填。
 
-![WX20231102-164010@2x](https://github.com/yurhett/OpenPAI-HENU/assets/46419702/9fe687c5-7f65-454c-a96d-02569df2e800)
+![WX20231102-164010@2x](https://github.com/yurhett/OpenPAI-HENU/assets/46419702/980a0a4a-7488-46b1-9382-221222a44bb7)
 
 Q：部署一次需要多长时间呢？
 
