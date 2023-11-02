@@ -14,9 +14,10 @@
 ### Q&A:
 Q：有没有快速入门指南？
 
-A：
-1. 登陆文件存储，上传你的代码，我这里上传的是代码+数据的压缩包，在线解压即可。
+A：1. 登陆文件存储，上传你的代码，我这里上传的是代码+数据的压缩包，在线解压即可。
+
 <img width="705" alt="image" src="https://github.com/yurhett/OpenPAI-HENU/assets/46419702/16b599bc-63fa-46e0-9b5f-8875423f248c">
+
 2. 登陆OpenPAI新建Job，选你合适的环境，用Pytorch的按照我的填。
 
 ![WX20231102-164010@2x](https://github.com/yurhett/OpenPAI-HENU/assets/46419702/980a0a4a-7488-46b1-9382-221222a44bb7)
