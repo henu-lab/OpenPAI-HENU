@@ -8,6 +8,8 @@
   - yulonger/pytorch:1.13.1-py3.9.12-cuda11.7.1-ubuntu20.04-pai-sm35（最合适的版本，所有机器都兼容）
   - yulonger/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04-pai-sm37（Pytorch2版本，vc2, vc3可用）
 
+帮你选：vc3 > default > vc1 = vc2
+
 | 相关资源： | [官方文档](https://openpai.readthedocs.io/zh_CN/latest/manual/cluster-user/index.html) | [交流讨论区](https://github.com/yurhett/OpenPAI-HENU/issues) | [数据区挂载教程（暂未使用）](https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_access_files_on_Synology_NAS_with_WebDAV) | 🔥🔥🔥[多卡训练教程（很简单）](https://pytorch.org/tutorials/beginner/blitz/data_parallel_tutorial.html) |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
