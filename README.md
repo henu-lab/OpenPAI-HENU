@@ -4,9 +4,9 @@
 
 ⚠️ 公用数据存储需要你在openpai文件夹中创建一个与你用户名相同的文件夹，之后，参考官方文档，这个文件夹的文件将自动挂载到容器中。
 
-⚠️ 推荐镜像，请检查环境配置代码，不要覆盖安装Pytorch：
+⚠️ 推荐镜像，请检查环境配置代码，**不要再自行安装**Pytorch，容器里已自带：
   - yulonger/pytorch:1.13.1-py3.9.12-cuda11.7.1-ubuntu20.04-pai-sm35（最合适的版本，所有机器都兼容）
-  - yulonger/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04-pai-sm37（Pytorch2版本，vc2, vc3可用）
+  - yulonger/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04-pai-sm37（Pytorch2版本，default, vc3可用）
 
 帮你选：vc3 > default > vc1 = vc2
 
